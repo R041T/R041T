@@ -1,5 +1,5 @@
 ### Hi there 👋 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif" width="550" height="320" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif" width="400" height="250" />
 
 I'm Rohit Mahesh, a passionate self taught Full Stack Developer from Chennai, India. I love coming up with ideas and making them a reality. 
 I pay attention to detail and always like to explore the different options and pick the most suitable one rather than dive into the most common approach which allows me to be a jack of trades. 
