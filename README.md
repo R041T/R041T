@@ -1,7 +1,8 @@
 ### Hi there 👋 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif" width="550" height="320" />
+
 I'm Rohit Mahesh, a passionate self taught Full Stack Developer from Chennai, India. I love coming up with ideas and making them a reality. 
 I pay attention to detail and always like to explore the different options and pick the most suitable one rather than dive into the most common approach which allows me to be a jack of trades. 
-
 My languages and Tools are: </br></br>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/6128107?s=280&v=4"></code>
 <code><img height="20" src="https://w7.pngwing.com/pngs/247/558/png-transparent-node-js-javascript-express-js-npm-react-github-angle-text-trademark.png"></code>
@@ -21,6 +22,7 @@ You can reach out to me anytime on:</br></br>
   <img align="left" alt="Rohit's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+  
 
 <!--
 **R041T/R041T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
