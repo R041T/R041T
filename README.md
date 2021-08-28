@@ -5,7 +5,9 @@ I always like to explore the different options rather than dive into the most co
 My languages and Tools are: </br></br>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/6128107?s=280&v=4"></code>
 <code><img height="20" src="https://w7.pngwing.com/pngs/247/558/png-transparent-node-js-javascript-express-js-npm-react-github-angle-text-trademark.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4"></code>
+
 <!--
 **R041T/R041T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
