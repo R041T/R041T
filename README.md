@@ -8,6 +8,7 @@ My languages and Tools are: </br></br>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4"></code>
 <code><img height="20" src="https://image.flaticon.com/icons/png/512/873/873120.png"></code>
+<code><img height="20" src="https://www.pngitem.com/pimgs/m/33-335825_-net-core-logo-png-transparent-png.png"></code>
 <code><img height="20" src="https://classes.engineering.wustl.edu/cse231/core/images/2/26/Java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
