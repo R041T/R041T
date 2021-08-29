@@ -17,9 +17,7 @@ My languages and Tools are: </br></br>
 
 
 You can reach out to me anytime on:</br></br>
-<a href="https://twitter.com/R041T">
-  <img align="left" alt="Rohit Mahesh | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+
 <a href="https://www.linkedin.com/in/rohit-mahesh/">
   <img align="left" alt="Rohit's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
