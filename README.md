@@ -1,28 +1,37 @@
 ### Hi there 👋 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif" width="400" height="250" />
 
-I'm Rohit Mahesh, a passionate self taught Full Stack Developer from Chennai, India. I love coming up with ideas and making them a reality. 
-I pay attention to detail and always like to explore the different options and pick the most suitable one rather than dive into the most common approach which allows me to be a jack of trades. 
+I'm Rohit Mahesh, a passionate Full Stack Developer that loves coming up with solutions to challenging problems. I've been told that i'm detail oriented and plan ahead quite well. 
+
+- 🔭 I’m currently working on a chat app (cliché I know) using MERN with Typescript, Prisma, Postgres and docker.
+- 🌱 I’m currently learning Machine Learning 
+- 💬 Ask me about Anything tech
+- ⚡ Fun fact: I like learning pretty much anything. 
+- 🌐 My Resume: <a href="https://www.rohitmahesh.com">rohitmahesh.com</a>
+- 📥 You can reach out to me via my  <a href="mailto:rohit.mahesh6500@gmail.com">email</a>
+
+
+</br>
 My languages and Tools are: </br></br>
-<code><img height="20" src="https://avatars.githubusercontent.com/u/6128107?s=280&v=4"></code>
-<code><img height="20" src="https://w7.pngwing.com/pngs/247/558/png-transparent-node-js-javascript-express-js-npm-react-github-angle-text-trademark.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4"></code>
-<code><img height="20" src="https://image.flaticon.com/icons/png/512/873/873120.png"></code>
-<code><img height="20" src="https://www.pngitem.com/pimgs/m/33-335825_-net-core-logo-png-transparent-png.png"></code>
-<code><img height="20" src="https://classes.engineering.wustl.edu/cse231/core/images/2/26/Java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://avatars.githubusercontent.com/u/177543?s=200&v=4"></code>
 
+<code><img height="40" src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,redux,vue,nodejs,express,cs,dotnet,py,flask,git"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=java,cpp,go,docker,aws,azure,jenkins,vercel,netlify,heroku,postgres,mysql,firebase,redis,sequelize"></code>
+</br>
+<code><img height="40" src="https://skillicons.dev/icons?i=prisma,postman,selenium,vscode"></code>
+</br>
 
-You can reach out to me anytime on:</br></br>
+You can reach out to me anytime on:</br>
 
 <a href="https://www.linkedin.com/in/rohit-mahesh/">
-  <img align="left" alt="Rohit's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<code><img height="25" src="https://skillicons.dev/icons?i=linkedin"></code>
 </a>
 
+<a href="https://twitter.com/r041t">
+<code><img height="25" src="https://skillicons.dev/icons?i=twitter"></code>
+</a>
   
+</br></br>
+<img alt="GIF" src="https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif" width="550" height="350" />
+
 
 <!--
 **R041T/R041T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
