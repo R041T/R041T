@@ -2,9 +2,9 @@
 
 I'm Rohit Mahesh, a passionate Full Stack Developer that loves coming up with solutions to challenging problems. I've been told that i'm detail oriented and plan ahead quite well. 
 
-- 🔭 I’m currently working on a chat app (cliché I know) using MERN with Typescript, Prisma, Postgres and docker.
-- 🌱 I’m currently learning Machine Learning 
-- 💬 Ask me about Anything tech
+- 🔭 I just completed a base version of a chat app (<a href="https://www.ping.rohitmahesh.com">ping.rohitmahesh.com</a>) using MERN with Typescript, Prisma, Postgres and docker.
+- 🌱 I’m currently improving my knowledge on DSA
+- 💬 Ask me about Anything tech.
 - ⚡ Fun fact: I like learning pretty much anything. 
 - 🌐 My Resume: <a href="https://www.rohitmahesh.com">rohitmahesh.com</a>
 - 📥 You can reach out to me via my  <a href="mailto:rohit.mahesh6500@gmail.com">email</a>
